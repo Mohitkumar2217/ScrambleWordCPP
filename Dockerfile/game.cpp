@@ -12,8 +12,9 @@ vector<string> word_list = {"python", "developer", "programming", "algorithm",
                             "function", "iterator", "codespace", "proccessor", 
                             "keyboard", "javascript", "structure", "computer", 
                             "software", "design", "coding", "website"};
-string scramble_word(string word)
-{
+
+                            
+string scramble_word(string word){
     random_shuffle(word.begin(), word.end());
     return word;
 }
