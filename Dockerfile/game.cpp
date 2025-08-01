@@ -5,6 +5,7 @@
 #include <cstdlib>
 #include <ctime>
 #include <algorithm>
+#include <random>
 
 using namespace std;
 vector<string> word_list = {"python", "developer", "programming", "algorithm", 
