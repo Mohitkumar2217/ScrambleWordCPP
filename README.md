@@ -15,3 +15,6 @@ A fun console-based word guessing game written in modern C++.
 ```bash
 g++ main.cpp -o scramble_game
 ./scramble_game
+```
+ ## it is very basic game design 
+ ## using just two basic functions called random_shuffle() and rand() ,srand() 
