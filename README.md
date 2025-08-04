@@ -18,3 +18,4 @@ g++ main.cpp -o scramble_game
 ```
  ## it is very basic game design 
  ## using just two basic functions called random_shuffle() and rand() ,srand() 
+ - more features in future
