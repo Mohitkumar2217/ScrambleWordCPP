@@ -6,6 +6,7 @@ A fun console-based word guessing game written in modern C++.
 - Random word selection
 - Word scrambling logic
 - User input and feedback
+- Dynamic program
 
 ## How to Run
 1. Download the executable from [Releases](https://github.com/Mohitkumar2217/ScrambleWordCPP/releases)
